@@ -1,5 +1,5 @@
 #Lab6
-22302010022  曾华正
+
 ##Algorithm
 ###动态规划
 model.py  schedule_model_Dynamic
