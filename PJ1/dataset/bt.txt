@@ -1,0 +1,3 @@
+level =0  child:2\elephant
+level =1  child:0\apple\blue\cat\dog
+level =1  child:0\fox\goal\hat\inn\jail\kite\lemon

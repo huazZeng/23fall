@@ -1,0 +1,57 @@
+Postfix : 3 5 + 2 7 * /
+Result : 0
+
+Postfix : 25 5 + 3 * 21 7 / 1 + -
+Result : 86
+
+Postfix : 5 1 2 + 4 * + 3 - 7 4 5 - + +
+Result : 20
+
+Postfix : 36 3 / 5 + 2 * 14 - 3 * 24 2 / 1 - + 2 /
+Result : 35
+
+Postfix : 20 4 - 2 * 14 + 7 / 1 - 5 * 9 + 12 3 / 2 + -
+Result : 28
+
+Postfix : 10 5 + 2 * 8 - 4 / 3 + 6 * 12 2 * 4 + - 18 3 / 2 * + 5 -
+Result : 27
+
+Postfix : 24 3 / 6 + 2 * 14 - 2 / 5 + 4 * 16 2 * 3 + - 21 3 / 2 * +
+Result : 27
+
+Postfix : 20 6 + 2 * 14 - 7 / 1 + 4 * 10 2 * 3 + - 27 3 / 2 * + 4 -
+Result : 15
+
+Postfix : 8 4 + 3 * 18 - 2 / 7 + 5 * 10 - 2 + 4 * 12 - 6 + 2 * 3 - 2 /
+Result : 280
+
+Infix : ( A + B ) * C
+Postfix : A B +C * 
+
+Infix : A + ( B - C )
+Postfix : A B C -+ 
+
+Infix : A * ( B + C ) / D
+Postfix : A B C +* D / 
+
+Infix : ( A + B ) * ( C - D )
+Postfix : A B +C D -* 
+
+Infix : A + B * C - D / E
+Postfix : A B C * + D E / - 
+
+Infix : ( A * B ) + ( C / D ) - E
+Postfix : A B *C D /+ E - 
+
+Infix : ( A + B ) / ( C + D ) * E
+Postfix : A B +C D +/ E * 
+
+Infix : A * ( B + C ) - ( D * E )
+Postfix : A B C +* D E *- 
+
+Infix : ( A + B ) * ( C - D ) / ( E + F )
+Postfix : A B +C D -* E F +/ 
+
+Infix : A * ( B + ( C * ( D - ( E / ( F + ( G * H ) ) ) ) ) ) / I
+Postfix : A B C D E F G H *+/-*+* I / 
+

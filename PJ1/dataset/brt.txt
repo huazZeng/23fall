@@ -1,0 +1,12 @@
+dog 狗 0 level=0 left child:blue right child:hat
+blue 蓝色 0 level=1 left child:apple right child:cat
+apple 苹果 0 level=2 left child:None right child:None
+cat 猫 0 level=2 left child:None right child:None
+hat 帽子 0 level=1 left child:fox right child:jail
+fox 狐狸 1 level=2 left child:elephant right child:goal
+elephant 大象 0 level=3 left child:None right child:None
+goal 目标 0 level=3 left child:None right child:None
+jail 监狱 1 level=2 left child:inn right child:kite
+inn 客栈 0 level=3 left child:None right child:None
+kite 风筝 0 level=3 left child:None right child:lemon
+lemon 柠檬 1 level=4 left child:None right child:None

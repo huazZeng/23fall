@@ -1,0 +1,13 @@
+INSERT
+apple 苹果
+blue 蓝色
+cat 猫
+dog 狗
+elephant 大象
+fox 狐狸
+goal 目标
+hat 帽子
+inn 客栈
+jail 监狱
+kite 风筝
+lemon 柠檬
